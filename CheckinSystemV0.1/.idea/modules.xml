@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CheckinSystemV0.1.iml" filepath="$PROJECT_DIR$/.idea/CheckinSystemV0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Model/.idea/Model.iml" filepath="$PROJECT_DIR$/../Model/.idea/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Py.iml" filepath="$PROJECT_DIR$/../.idea/Py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project_one/.idea/project_one.iml" filepath="$PROJECT_DIR$/../project_one/.idea/project_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project_two/.idea/project_two.iml" filepath="$PROJECT_DIR$/../project_two/.idea/project_two.iml" />
+    </modules>
+  </component>
+</project>
