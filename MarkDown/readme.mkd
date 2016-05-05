@@ -1,0 +1,6 @@
+在Linux系统中，编辑markdown可以用retext工具：
+
+> Debian/Ubuntu
+
+* sudo apt-get install retext
+* retext Release-Notes.md
